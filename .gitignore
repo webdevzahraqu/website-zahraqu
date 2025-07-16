@@ -1,0 +1,6 @@
+#folder npm 
+node_modules/
+package-lock.json
+
+# File development (tidak dibutuhkan browser)
+src/input.css
